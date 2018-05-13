@@ -1,0 +1,14 @@
+{
+    "name": "s4671314/mcis",
+    "authors": [
+        {
+            "name": "Shailesh Sonare",
+            "email": "shaileshsonare@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "": "classes/" },
+        "files": ["includes/global_functions.php"]
+    }
+}
