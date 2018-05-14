@@ -10,10 +10,10 @@
     <script src="js/bootstrap.min.js"></script>
 </head>
 <body class="container">
-    <div id="alerts" style="display:none;">
-    </div>
-    <div class="jumbotron text-center">
+	<div class="jumbotron text-center">
         <h2>Mini Car Inventory System<h2>
+    </div>
+    <div id="alerts" style="display:none;">
     </div>
     <div id="tabs">
         <ul>
